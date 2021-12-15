@@ -5,10 +5,8 @@
 
 <div style="width:100%;text-align:center;">
     <p align="center">
-        <img src="https://github.com/XxOinvizioNxX/
-RX5808-ABFC/raw/main/PHOTO_1.jpg" width=300 height="auto">
-        <img src="https://github.com/XxOinvizioNxX/
-RX5808-ABFC/raw/main/PHOTO_2.jpg" width=300 height="auto">
+        <img src="PHOTO_1.jpg" width=300 height="auto">
+        <img src="PHOTO_2.jpg" width=300 height="auto">
     </p>
 </div>
 
@@ -23,8 +21,7 @@ In order to establish transmission between a receiver and a camera, you would ha
 
 <div style="width:100%;text-align:center;">
     <p align="center">
-        <img src="https://github.com/XxOinvizioNxX/
-RX5808-ABFC/raw/main/FREQUENCY_CHART.png" width="auto" height="auto">
+        <img src="FREQUENCY_CHART.png" width="auto" height="auto">
     </p>
 </div>
 
